@@ -3,49 +3,49 @@
     "name": "acidic compound",
     "points": 0,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/acidic-compound.png",
-    "xws": "acidiccompound",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-acidic-compound.png",
+    "xws": "acidiccompound"
   },
   {
     "name": "elixirs",
     "points": 1,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/elixirs-front.png",
-    "xws": "elixirs",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-elixirs-front.png",
+    "xws": "elixirs"
   },
   {
     "name": "luminous elixir",
     "points": 2,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/luminous-elixir.png",
-    "xws": "luminouselixir",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-luminous-elixir.png",
+    "xws": "luminouselixir"
   },
   {
     "name": "mind numbing reagent",
     "points": 3,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/mind-numbing-reagent.png",
-    "xws": "mindnumbingreagent",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-mind-numbing-reagent.png",
+    "xws": "mindnumbingreagent"
   },
   {
     "name": "nightmare juice",
     "points": 4,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/nightmare-juice.png",
-    "xws": "nightmarejuice",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-nightmare-juice.png",
+    "xws": "nightmarejuice"
   },
   {
     "name": "placebo",
     "points": 5,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/placebo.png",
-    "xws": "placebo",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-placebo.png",
+    "xws": "placebo"
   },
   {
     "name": "waking dreams",
     "points": 6,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/waking-dreams.png",
-    "xws": "wakingdreams",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-waking-dreams.png",
+    "xws": "wakingdreams"
   }
 ]
