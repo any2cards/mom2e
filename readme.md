@@ -19,7 +19,6 @@ This repository contains data and images for the following games and components:
 	- Forbidden Alchemy (FA)
 
 **Assets:**
-- art
 - agendas
 - conditions
 - damage
@@ -31,25 +30,39 @@ This repository contains data and images for the following games and components:
   - unique
 - spells
 
-There are two top-level directories: `art` and `images`.
+There are three top-level directories: `data` , `images` , and `xwc`.
 
-### art
+### data
 
-The `art` folder contains all MoM2e assets to make cards, tokens, etc.
+The `data` folder contains all MoM2e Asset Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains Mom2e images for each of the above components.
+The `images` folder contains MoM2e Asset Viewer images for each of the above components.
+
+### xwc
+
+The `xwc` folder contains all of the files that power the MoM2e Asset Viewer Chrome Extension.
 
 ## Bugs / Issues
 
 Please [open a ticket](https://github.com/any2cards/mom2e/issues/new) on Github.
 
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :tada:
+
+When adding images please use [TinyPNG](https://tinypng.com/) to reduce their filesize as much as possible without affecting image quality.
+
 ## Projects
 
 A list of projects that use this content:
 
-- None at the moment
+- [MoM2e Asset Viewer](<url place holder>) (Chrome Extension)
 
 ## Versioning
 
