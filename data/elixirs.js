@@ -21,7 +21,7 @@
     "xws": "luminouselixir"
   },
   {
-    "name": "mind numbing reagent",
+    "name": "mind-numbing reagent",
     "points": 3,
     "expansion": "Streets Of Arkham",
     "image": "elixirs/mom2e/streets-of-arkham/m2-sa-mind-numbing-reagent.png",
