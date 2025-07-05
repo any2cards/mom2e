@@ -7,10 +7,10 @@
     "xws": "acidiccompound"
   },
   {
-    "name": "elixirs",
+    "name": "elixir",
     "points": 1,
     "expansion": "Streets Of Arkham",
-    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-elixirs-front.png",
+    "image": "elixirs/mom2e/streets-of-arkham/m2-sa-elixir-front.png",
     "xws": "elixirs"
   },
   {
