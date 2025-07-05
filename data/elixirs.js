@@ -1,0 +1,51 @@
+[
+  {
+    "name": "acidic compound",
+    "points": 0,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/acidic-compound.png",
+    "xws": "acidiccompound",
+  },
+  {
+    "name": "elixirs",
+    "points": 1,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/elixirs-front.png",
+    "xws": "elixirs",
+  },
+  {
+    "name": "luminous elixir",
+    "points": 2,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/luminous-elixir.png",
+    "xws": "luminouselixir",
+  },
+  {
+    "name": "mind numbing reagent",
+    "points": 3,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/mind-numbing-reagent.png",
+    "xws": "mindnumbingreagent",
+  },
+  {
+    "name": "nightmare juice",
+    "points": 4,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/nightmare-juice.png",
+    "xws": "nightmarejuice",
+  },
+  {
+    "name": "placebo",
+    "points": 5,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/placebo.png",
+    "xws": "placebo",
+  },
+  {
+    "name": "waking dreams",
+    "points": 6,
+    "expansion": "Streets Of Arkham",
+    "image": "elixirs/streets-of-arkham/waking-dreams.png",
+    "xws": "wakingdreams",
+  }
+]
