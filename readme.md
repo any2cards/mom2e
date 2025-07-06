@@ -1,13 +1,13 @@
 # Mansions of Madness Second Edition (MOM2E)
 
-An easy-to-use collection of data and images from [Mansions of Madness 2nd Edition](https://www.fantasyflightgames.com/en/products/mansions-of-madness-second-edition/) by [Fantasy Flight Games](http://fantasyflightgames.com/).
+An easy-to-use collection of data and images from [Mansions of Madness Second Edition](https://www.fantasyflightgames.com/en/products/mansions-of-madness-second-edition/) by [Fantasy Flight Games](http://fantasyflightgames.com/).
 
 ## What's included
 
 This repository contains data and images for the following games and components:
 
 **Games:**
-- Mansions of Madness 2nd Edition (MoM2e)
+- Mansions of Madness Second Edition (MoM2e)
 	- Base Game (BG)
 	- Beyond The Threshold (BT)
 	- Streets Of Arkham (SA)
