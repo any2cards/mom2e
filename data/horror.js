@@ -161,7 +161,7 @@
     "xws": "terribletruths"
   },
   {
-    "name": "weak willed",
+    "name": "weak-willed",
     "points": 23,
     "expansion": "Beyond The Threshold",
     "image": "horror/mom2e/beyond-the-threshold/m2-bt-weak-willed.png",
