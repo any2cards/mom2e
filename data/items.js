@@ -200,7 +200,7 @@
     "points": 28,
     "expansion": "Base Game",
     "image": "items/mom2e/common/base-game/m2-bg-lucky-rabbits-foot.png",
-    "xws": "luckyrabbit'sfoot"
+    "xws": "luckyrabbitsfoot"
   },
   {
     "name": "machete",
@@ -315,7 +315,7 @@
     "xws": "wrench"
   },
   {
-    "name": "25 automatic",
+    "name": ".25 automatic",
     "points": 45,
     "expansion": "Beyond The Threshold",
     "image": "items/mom2e/common/beyond-the-threshold/m2-bt-25-automatic.png",
@@ -360,8 +360,8 @@
     "name": "scribe's journal",
     "points": 51,
     "expansion": "Beyond The Threshold",
-    "image": "items/mom2e/common/beyond-the-threshold/m2-bt-scribe's-journal.png",
-    "xws": "scribe'sjournal"
+    "image": "items/mom2e/common/beyond-the-threshold/m2-bt-scribes-journal.png",
+    "xws": "scribesjournal"
   },
   {
     "name": "tome of horrors",
@@ -395,8 +395,8 @@
     "name": "captain's hat",
     "points": 56,
     "expansion": "Horrific Journeys",
-    "image": "items/mom2e/common/horrific-journeys/m2-hj-captain's-hat.png",
-    "xws": "captain'shat"
+    "image": "items/mom2e/common/horrific-journeys/m2-hj-captains-hat.png",
+    "xws": "captainshat"
   },
   {
     "name": "coal shovel",
@@ -409,15 +409,15 @@
     "name": "diver's helmet",
     "points": 58,
     "expansion": "Horrific Journeys",
-    "image": "items/mom2e/common/horrific-journeys/m2-hj-diver's-helmet.png",
-    "xws": "diver'shelmet"
+    "image": "items/mom2e/common/horrific-journeys/m2-hj-divers-helmet.png",
+    "xws": "divershelmet"
   },
   {
     "name": "diver's journal",
     "points": 59,
     "expansion": "Horrific Journeys",
-    "image": "items/mom2e/common/horrific-journeys/m2-hj-diver's-journal.png",
-    "xws": "diver'sjournal"
+    "image": "items/mom2e/common/horrific-journeys/m2-hj-divers-journal.png",
+    "xws": "diversjournal"
   },
   {
     "name": "gate box",
@@ -598,8 +598,8 @@
     "name": "gambler's dice",
     "points": 85,
     "expansion": "Streets Of Arkham",
-    "image": "items/mom2e/common/streets-of-arkham/m2-sa-gambler's-dice.png",
-    "xws": "gambler'sdice"
+    "image": "items/mom2e/common/streets-of-arkham/m2-sa-gamblers-dice.png",
+    "xws": "gamblersdice"
   },
   {
     "name": "mental stimulant",
@@ -899,8 +899,8 @@
     "name": "cultist's journal",
     "points": 128,
     "expansion": "Beyond The Threshold",
-    "image": "items/mom2e/unique/beyond-the-threshold/m2-bt-cultist's-journal.png",
-    "xws": "cultist'sjournal"
+    "image": "items/mom2e/unique/beyond-the-threshold/m2-bt-cultists-journal.png",
+    "xws": "cultistsjournal"
   },
   {
     "name": "fishing net",
