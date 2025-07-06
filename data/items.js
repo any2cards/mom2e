@@ -14,21 +14,21 @@
     "xws": "2x4"
   },
   {
-    "name": "18 derringer",
+    "name": ".18 derringer",
     "points": 2,
     "expansion": "Base Game",
     "image": "items/mom2e/common/base-game/m2-bg-18-derringer.png",
     "xws": "18derringer"
   },
   {
-    "name": "38 revolver",
+    "name": ".38 revolver",
     "points": 3,
     "expansion": "Base Game",
     "image": "items/mom2e/common/base-game/m2-bg-38-revolver.png",
     "xws": "38revolver"
   },
   {
-    "name": "45 automatic",
+    "name": ".45 automatic",
     "points": 4,
     "expansion": "Base Game",
     "image": "items/mom2e/common/base-game/m2-bg-45-automatic.png",
@@ -199,7 +199,7 @@
     "name": "lucky rabbit's foot",
     "points": 28,
     "expansion": "Base Game",
-    "image": "items/mom2e/common/base-game/m2-bg-lucky-rabbit's-foot.png",
+    "image": "items/mom2e/common/base-game/m2-bg-lucky-rabbits-foot.png",
     "xws": "luckyrabbit'sfoot"
   },
   {
