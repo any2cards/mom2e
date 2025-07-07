@@ -1,5 +1,13 @@
 var expansion_conversion = {
-	"mom2e": "Mansions Of Madness Second Edition",
+	"bg": "Base Game",
+	"bt": "Beyond The Threshold",
+	"sa": "Streets Of Arkham",
+	"st": "Sanctum Of Twilight",
+	"hj": "Horrific Journeys",
+	"ps": "Path Of The Serpent",
+	"m1": "MoM1e",
+	"cw": "Call Of The Wild",
+	"fa": "Forbidden Alchemy",
 };
 
 const getExpFromInputId = (input_id) => {

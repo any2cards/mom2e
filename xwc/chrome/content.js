@@ -10,7 +10,6 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"mom2e": "Mansions Of Madness Second Edition",
 	"bg": "Base Game",
 	"bt": "Beyond The Threshold",
 	"sa": "Streets Of Arkham",
@@ -505,7 +504,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 
 function mutationGetData(mutations) {
 	// Update just the elements that were added, and their children, except the
-	// ones added by RAV.
+	// ones added by MOM2EAV.
 	mutations
 		.filter((m) => m.type === "childList")
 		.flatMap((m) => Array.from(m.addedNodes.values()))
