@@ -1,13 +1,13 @@
 var expansion_conversion = {
-	"bg": "Base Game",
-	"bt": "Beyond The Threshold",
-	"sa": "Streets Of Arkham",
-	"st": "Sanctum Of Twilight",
-	"hj": "Horrific Journeys",
-	"ps": "Path Of The Serpent",
-	"m1": "MoM1e",
-	"cw": "Call Of The Wild",
-	"fa": "Forbidden Alchemy",
+	"bg": "base game",
+	"bt": "beyond the threshold",
+	"sa": "streets of arkham",
+	"st": "sanctum of twilight",
+	"hj": "horrific journeys",
+	"ps": "path of the serpent",
+	"m1": "mom1e",
+	"cw": "call of the wild",
+	"fa": "forbidden alchemy",
 };
 
 const getExpFromInputId = (input_id) => {
