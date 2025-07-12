@@ -62,7 +62,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [MoM2e Asset Viewer](<url place holder>) (Chrome Extension)
+- [MoM2e Asset Viewer](https://chromewebstore.google.com/detail/mom2e-asset-viewer/lhdnkmpbajgljjdjogclhaibcalfibcj) (Chrome Extension)
 
 ## Versioning
 
