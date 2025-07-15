@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "MoM2e Asset Viewer",
 	"description": "Display MoM2e Game Assets",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"web_accessible_resources": [
 		{
 			"resources": [ "icon-32.png" ],
